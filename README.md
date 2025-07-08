@@ -8,8 +8,6 @@ This project creates a **Hirst-style dot painting** using Python's built-in `tur
 
 
 
-yaml
-Copy code
 
 ---
 
