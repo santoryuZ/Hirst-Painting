@@ -6,7 +6,7 @@ This project creates a **Hirst-style dot painting** using Python's built-in `tur
 
 ## 📸 Preview
 
-
+![Hirst Painting Output](hirst-example.png)
 
 
 ---
